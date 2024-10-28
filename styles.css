@@ -1,0 +1,81 @@
+* {
+	font-family: 'Inter', sans-serif;
+	box-sizing: border-box;
+}
+
+body {
+	background: hsl(0, 0%, 8%);
+}
+
+.card {
+    width: 60%; 
+    max-width: 400px; 
+    background: hsl(0, 0%, 12%);
+    margin: 100px auto; 
+    padding: 35px 40px; 
+    text-align: center;
+    border-radius: 10px;
+}
+
+/* Tablet and small screens (768px and below) */
+@media (max-width: 768px) {
+    .card {
+        width: 80%;
+        max-width: 375px; 
+        padding: 30px 40px;
+    }
+}
+
+/* Mobile-first (smaller screens 375px and below) */
+@media (max-width: 375px) {
+    .card {
+        width: 90%; 
+        max-width: 375px; 
+        padding: 20px 25px; 
+    }
+}
+
+.card img {
+	width: 90px;
+	height: 90px;
+	border-radius: 50px;
+	margin-bottom: 10px;
+}
+.card h1 {
+	font-size: 24px;
+	font-weight: 600;
+	color: hsl(0, 0%, 100%);
+	margin-bottom: 0;
+}
+
+.card h2 {
+	font-size: 14px;
+	font-weight: 700;
+	color: hsl(75, 94%, 57%);
+}
+
+.card p {
+	font-size: 14px;
+	font-weight: 400;
+	color: hsl(0, 0%, 100%);
+	margin: 30px auto;
+}
+
+.links button {
+    display: block;
+    width: 100%; 
+    margin-bottom: 15px; 
+    background: hsl(0, 0%, 20%); 
+    color: white; 
+    font-size: 14px;
+    font-weight: 700; 
+    border: none; 
+    border-radius: 10px;
+    padding: 15px; 
+    cursor: pointer;
+}
+
+.links button:hover {
+    background: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
