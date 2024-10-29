@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KundaiTS/Social-Links-Profile)
-- Live Site URL: [Add live site URL here](https://kundaits.github.io/Social-Links-Profile)
+- Solution URL: [https://github.com/KundaiTS/Social-Links-Profile]
+- Live Site URL: [https://kundaits.github.io/Social-Links-Profile]
 
 ## My process
 
@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://kundaits.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/KundaiTS)
+- Website - [https://kundaits.github.io]
+- Frontend Mentor - [https://frontendmentor.io/profile/KundaiTS]
