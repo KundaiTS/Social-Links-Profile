@@ -10,8 +10,8 @@ body {
 .card {
     width: 60%; 
     max-width: 400px; 
-    background: hsl(0, 0%, 12%);
-    margin: 100px auto; 
+    background: hsl(0, 0%, 12%); 
+    margin: 0px auto;
     padding: 35px 40px; 
     text-align: center;
     border-radius: 10px;
